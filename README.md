@@ -12,6 +12,8 @@ https://or.stackexchange.com/
 
 Other resources:
 
+http://www.hakank.org/constraint_programming_blog/2011/03/a_first_look_at_google_ortools_java_interface.html
+
 https://github.com/or-tools/awesome_or-tools
 
 https://google.github.io/or-tools/
